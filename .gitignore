@@ -40,3 +40,4 @@ vendor
 
 persist.db
 plugins
+**/bin
